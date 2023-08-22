@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-Some information about you!
+Research
 
 ### More Information
 
