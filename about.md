@@ -1,7 +1,9 @@
 ---
 layout: page
 title: About
+title: Research
 permalink: /about/
+permalink: /research/
 ---
 
 Some information about you!
