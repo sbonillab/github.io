@@ -1,8 +1,6 @@
 ---
 layout: page
 title: About
-title: Research
-permalink: /about/
 permalink: /research/
 ---
 
