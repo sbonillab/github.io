@@ -4,9 +4,6 @@ title: Research
 permalink: /research/
 ---
 
-Research
-
-### More Information
 
 Bonilla-Bedoya, S., Valencia, K., Herrea, M. A., López-Ulloa, M., Donoso, D. A., & Macedo Pezzopane, J. (2023). Mapping 50 years of contribution to the development of soil quality biological indicators Mapping 50 years of contribution to the development of soil quality biological indicators. Ecological Indicators, 148(110091), 13. https://doi.org/10.1016/j.ecolind.2023.110091
 
