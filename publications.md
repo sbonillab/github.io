@@ -51,7 +51,7 @@ Bonilla-Bedoya, S., Molina, J. R., Macedo-Pezzopane, J. E., & Herrera-Machuca, M
 
 Bonilla-Bedoya, S., Lugo-Salinas, L., Mora-Garcés, A., Villarreal, A., Arends, E., & Herrera, M. (2013). Piaroa shifting cultivation: Temporal variability of soil characteristics and spatial distribution of crops in the Venezuelan Orinoco. Agroforestry Systems, 87(5), 1189–1199.  [https://doi.org/10.1007/s10457-013-9629-6](https://doi.org/10.1007/s10457-013-9629-6)
 
-Bonilla-Bedoya, S., Lugo-Salinas, L., & Mora-Garcés, A. (2012). Distribución de los cultivos Piaroa y su relación con las propiedades y características edáficas, en los conucos de la orinoquia venezolana. Revista Chapingo Serie Ciencias Forestales Y Del Ambiente, XVIII (2), 241–249.  [https://doi.org/10.5154/r.rchscfa.2011.11.084](https://doi.org/10.5154/r.rchscfa.2011.11.084)
+Bonilla-Bedoya, S., Lugo-Salinas, L., & Mora-Garcés, A. (2012). Distribución de los cultivos Piaroa y su relación con las propiedades y características edáficas, en los conucos de la orinoquia venezolana. Revista Chapingo Serie Ciencias Forestales Y Del Ambiente, XVIII (2), 241–249.  [https://doi.org/10.5154/r.rchscfa.2011.11.084](https://www.scielo.org.mx/scielo.php?pid=S2007-40182012000200010&script=sci_abstract).
 
 
 
