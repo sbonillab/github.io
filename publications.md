@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 
 
-Bonilla-Bedoya, S., Valencia, K., Herrea, M. A., López-Ulloa, M., Donoso, D. A., & Macedo Pezzopane, J. (2023). Mapping 50 years of contribution to the development of soil quality biological indicators Mapping 50 years of contribution to the development of soil quality biological indicators. Ecological Indicators, 148(110091), 13. https://doi.org/10.1016/j.ecolind.2023.110091
+Bonilla-Bedoya, S., Valencia, K., Herrea, M. A., López-Ulloa, M., Donoso, D. A., & Macedo Pezzopane, J. (2023). Mapping 50 years of contribution to the development of soil quality biological indicators Mapping 50 years of contribution to the development of soil quality biological indicators. Ecological Indicators, 148(110091), 13. ###https://doi.org/10.1016/j.ecolind.2023.110091
 
 Watson, C. S., Elliott, J. R., Córdova, M., Menoscal, J., Bonilla-Bedoya, S., Watson, C. S., Elliott, J. R., Córdova, M., & Menoscal, J. (2023). Evaluating night-time light sources and correlation with socio-economic development using high- resolution multi-spectral Jilin-1 satellite imagery of Quito, Ecuador. International Journal of Remote Sensing, 44(8), 2691–2716. https://doi.org/10.1080/01431161.2023.2205983
 
