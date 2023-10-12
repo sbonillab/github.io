@@ -7,14 +7,14 @@ permalink: /publications/
 
 Bonilla-Bedoya, S., Valencia, K., Herrea, M. A., López-Ulloa, M., Donoso, D. A., & Macedo Pezzopane, J. (2023). Mapping 50 years of contribution to the development of soil quality biological indicators Mapping 50 years of contribution to the development of soil quality biological indicators. Ecological Indicators, 148(110091), 13. [https://doi.org/10.1016/j.ecolind.2023.110091](mailto:https://doi.org/10.1016/j.ecolind.2023.110091). 
 
-Watson, C. S., Elliott, J. R., Córdova, M., Menoscal, J., Bonilla-Bedoya, S., Watson, C. S., Elliott, J. R., Córdova, M., & Menoscal, J. (2023). Evaluating night-time light sources and correlation with socio-economic development using high- resolution multi-spectral Jilin-1 satellite imagery of Quito, Ecuador. International Journal of Remote Sensing, 44(8), 2691–2716. https://doi.org/10.1080/01431161.2023.2205983
+Watson, C. S., Elliott, J. R., Córdova, M., Menoscal, J., Bonilla-Bedoya, S., Watson, C. S., Elliott, J. R., Córdova, M., & Menoscal, J. (2023). Evaluating night-time light sources and correlation with socio-economic development using high- resolution multi-spectral Jilin-1 satellite imagery of Quito, Ecuador. International Journal of Remote Sensing, 44(8), 2691–2716. [https://doi.org/10.1080/01431161.2023.2205983](mailto:https://doi.org/10.1080/01431161.2023.2205983).
 
 
-Santos, F., Calle, N., Bonilla-Bedoya, S., Sarmiento, F., & Herrnegger, M. (2023). Impacts of soil erosion and climate change on the built heritage of the Pambamarca Fortress Complex in northern Ecuador. In PloS one (Vol. 18, Issue 2). https://doi.org/10.1371/journal.pone.0281869
+Santos, F., Calle, N., Bonilla-Bedoya, S., Sarmiento, F., & Herrnegger, M. (2023). Impacts of soil erosion and climate change on the built heritage of the Pambamarca Fortress Complex in northern Ecuador. In PloS one (Vol. 18, Issue 2). [https://doi.org/10.1371/journal.pone.0281869](mailto:https://doi.org/10.1371/journal.pone.0281869).
 
-Cabral, R. P., da Silva, G. F., de Almeida, A. Q., Bonilla-Bedoya, S., Dias, H. M., De Mendonça, A. R., Rodrigues, N. M. M., Valente, C. C. A., Oliveira, K., Gonçalves, F. G., & Sarcinelli, T. S. (2023). Mapping of the Successional Stage of a Secondary Forest Using Point Clouds Derived from UAV Photogrammetry. Remote Sensing, 15(2). https://doi.org/10.3390/rs15020509
+Cabral, R. P., da Silva, G. F., de Almeida, A. Q., Bonilla-Bedoya, S., Dias, H. M., De Mendonça, A. R., Rodrigues, N. M. M., Valente, C. C. A., Oliveira, K., Gonçalves, F. G., & Sarcinelli, T. S. (2023). Mapping of the Successional Stage of a Secondary Forest Using Point Clouds Derived from UAV Photogrammetry. Remote Sensing, 15(2). [https://doi.org/10.3390/rs15020509](mailto:https://doi.org/10.3390/rs15020509).
 
-Bonilla-Bedoya, Santiago, Miguel Ángel Herrera, Angélica Vaca, Laura Salazar, Rasa Zalakeviciute, Danilo Mejía, and Magdalena López-Ulloa. 2022. “Urban Soil Management in the Strategies for Adaptation to Climate Change of Cities in the Tropical Andes.” Geoderma 417 (July). https://doi.org/10.1016/j.geoderma.2022.115840.
+Bonilla-Bedoya, Santiago, Miguel Ángel Herrera, Angélica Vaca, Laura Salazar, Rasa Zalakeviciute, Danilo Mejía, and Magdalena López-Ulloa. 2022. “Urban Soil Management in the Strategies for Adaptation to Climate Change of Cities in the Tropical Andes.” Geoderma 417 (July). [https://doi.org/10.1016/j.geoderma.2022.115840](mailto:https://doi.org/10.1016/j.geoderma.2022.115840).
 
 Castillo, M. E., Molina, J. R., Bonilla-Bedoya, S., & Moreno, R. A. (2022). Calculating minimum safety distance against wild fi res at the wildland-urban interface in Chile and Spain. Heliyon, 8(October), e11238.https://doi.org/10.1016/j.heliyon.2022.e11238
 
