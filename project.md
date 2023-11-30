@@ -3,7 +3,8 @@ layout: page
 title: Project
 permalink: /project/
 ---
-2020. Environmental resilience in cities. Quito and Guayaquil cases.
+2020. Environmental resilience in cities. Quito and Guayaquil cases/
+      
       Resiliencia ambiental en sistemas socio-ecológicos urbanos de ciudades neo-tropicales, casos Quito y Guayaquil
 
 Global urbanization and rapid urban population growth are two dominant demographic trends in this century. Both are the products of socio-ecological relationships posing as true challenges to sustainability, due to environmental justice and the well-being of citizens in urban environments. Environmental monitoring methods, including spatial approach, use of sensors and remote sensing, integrate the
