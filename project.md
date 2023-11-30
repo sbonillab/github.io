@@ -7,6 +7,8 @@ permalink: /project/
       
       Resiliencia ambiental en sistemas socio-ecológicos urbanos de ciudades neo-tropicales, casos Quito y Guayaquil
 
+      [Resiliencia Ambiental](images/Resiliencia.png)
+
 Global urbanization and rapid urban population growth are two dominant demographic trends in this century. Both are the products of socio-ecological relationships posing as true challenges to sustainability, due to environmental justice and the well-being of citizens in urban environments. Environmental monitoring methods, including spatial approach, use of sensors and remote sensing, integrate the
 understanding of environmental variations from a socio-ecological perspective. However, they are scarcely used in developing countries. The application of these methods, their results, analysis and
 decision-making could play a decisive role in urban planning. Therefore, this project proposes to broaden the knowledge on environmental quality in urban areas of Ecuador, considering a framework of complex
