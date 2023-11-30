@@ -4,10 +4,8 @@ title: Project
 permalink: /project/
 ---
 2020. Environmental resilience in cities. Quito and Guayaquil cases
-      
-      Resiliencia ambiental en sistemas socio-ecológicos urbanos de ciudades neo-tropicales, casos Quito y Guayaquil
 
-      Rol: Principal investigator
+Rol: Principal investigator
 
       ![Resiliencia Ambiental](images/Resiliencia03.png)
 
@@ -23,7 +21,7 @@ systems. This information is decisive for city planning decisions in the framewo
 interact with the results of this project. This innovative project promotes a scientific community dedicated to environmental monitoring focused on the delivery of information both for decision-making and for the
 generation of early warnings of the environmental variations that compromise the system, in addition to the well-being and environmental justice of the citizens.
 
-El proceso de urbanización global y el crecimiento de la población urbana son dos tendencias demográficas dominantes en el siglo XXI. Ambas son producto de relaciones socio-ecológicas y se
+Resiliencia ambiental en sistemas socio-ecológicos urbanos de ciudades neo-tropicales, casos Quito y Guayaquil. El proceso de urbanización global y el crecimiento de la población urbana son dos tendencias demográficas dominantes en el siglo XXI. Ambas son producto de relaciones socio-ecológicas y se
 presentan como verdaderos desafíos de la sostenibilidad. Los ambientes urbanos deben garantizar la justicia ambiental y el bienestar de los ciudadanos.
 Métodos de monitoreo ambiental que incluya desde un enfoque espacial el uso de sensores y técnicas de teledetección, e integren desde una perspectiva socio-ecológica el entendimiento de las variaciones
 ambientales son muy poco usados en países en vías de desarrollo. La aplicación de estos métodos, sus resultados, análisis y toma de decisiones a partir de ellos, podría ser determinante en la planificación
