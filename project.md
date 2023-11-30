@@ -3,7 +3,7 @@ layout: page
 title: Project
 permalink: /project/
 ---
-2020. Environmental resilience in cities. Quito and Guayaquil cases/
+2020. Environmental resilience in cities. Quito and Guayaquil cases
       
       Resiliencia ambiental en sistemas socio-ecológicos urbanos de ciudades neo-tropicales, casos Quito y Guayaquil
 
