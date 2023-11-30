@@ -7,6 +7,7 @@ permalink: /project/
 
 Rol: Researcher of the Multiple Management of Forest Ecosystems Group, Universidad de los Andes Venezuela.
 
+<p align="center">
 ![Guyagrofor](images/GuyagroforC05.png)
 
 
