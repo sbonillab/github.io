@@ -6,7 +6,7 @@ permalink: /project/
 2023-2024: Spatial Distribution and Participatory Management Strategies for Controlling Thunbergia alata and Conserving Ecosystem Goods and Services in Andean Landscapes: The Case of the Metropolitan District of Quito
 Abstract
 Rol: Principal investigator
-![ER](images/T_alata.PNG)
+
 
 Thunbergia alata, an invasive exotic plant, poses a significant threat to natural habitats, causing detrimental effects on biodiversity and ecosystem stability. This project focuses on mitigating the increasing presence
 of Thunbergia alata in the Andean landscapes within the Metropolitan District of Quito. The methodology consists of three essential components: Firstly, an extensive spatial modeling approach is employed to assess the
